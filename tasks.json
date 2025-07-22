@@ -1,0 +1,16 @@
+[
+  {
+    "id": "427be1d7-4144-40ce-a1d9-8fed2fbc15b7",
+    "description": "Finish the frontend work",
+    "status": "in-progress",
+    "createdAt": "2025-07-22T04:43:29.245Z",
+    "updatedAt": "2025-07-22T04:49:14.803Z"
+  },
+  {
+    "id": "db70df8c-1505-4040-bbf9-f80808553b19",
+    "description": "Finish project",
+    "status": "todo",
+    "createdAt": "2025-07-22T04:49:21.327Z",
+    "updatedAt": "2025-07-22T04:49:21.327Z"
+  }
+]
